@@ -8,13 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-      
-        System.out.println( "Changewdewdewcecrecweweewrwe343ejbjhvhjvhefjhbferbhjferbhj"
-        		+ "/"
-        		+ "/"
-        		+ "/"
-        		+ "/"
-        		+ "nhjvhgchgmhvhjv" );  	
+    
+        System.out.println( "New Branch" );  	
     }
 }
